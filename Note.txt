@@ -1,0 +1,2 @@
+Đã thêm 2 hàm mã hóa và giải mã hóa vào, nhưng chưa có dùng, nó nằm trong
+rfmesh.c

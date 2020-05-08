@@ -1,0 +1,1 @@
+"./main.obj" "./MSP430F5xx_6xx/device_init.obj" "./MSP430F5xx_6xx/lcd.obj" "../lnk_msp430f6736.cmd" -llibmath.a -llibc.a 
